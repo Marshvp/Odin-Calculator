@@ -1,4 +1,11 @@
 h1 {
     display: flex;
     justify-content: center;
+    color: aquamarine;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
 }
